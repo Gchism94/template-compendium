@@ -1,4 +1,4 @@
-# Data Science Institute Data Science Fellows Template Research Compendium
+# Bee Marking Detection Computer Vision Project
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
@@ -29,10 +29,7 @@ This repository is organized as a reproducible research compendium. Future updat
                             # supplementary tables for the main manuscript 
     
     R/Python/etc.           # scripts to run in the following order (also see associated README.md)
-        └── Script.R        # hypothetical R script used to wrangle the raw data, produce figures, analyses, and supplementary materials
+        └── Script.py       # hypothetical Python script used to wrangle the raw data, produce figures, analyses, and supplementary materials
 
         
-
-A template `log.md` learners notebook for DSF can be found in [analysis/logs](https://github.com/ua-data7/DSF-template-compendium/tree/main/analysis). 
-
 
