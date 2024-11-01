@@ -20,16 +20,17 @@ This repository is organized as a reproducible research compendium. Future updat
     ├── figures/            # location of the figures produced for the manuscript
     |
     ├── data/
-    │   └── RawData/        # data obtained from elsewhere
+    |   ├── rawData/        # data obtained from elsewhere
+    │   └── derivedData/    # data generated from rawData/ and scripts.*
     |   
-    └── supplementary-materials/
-        ├── Supplementary_Figures/     
+    └── supplementaryMaterials/
+        ├── supplementaryFigures/     
         |                   # supplementary figures for the main manuscript
-        └── Supplementary_Tables/      
+        └── supplementaryTables/      
                             # supplementary tables for the main manuscript 
     
     R/Python/etc.           # scripts to run in the following order (also see associated README.md)
-        └── Script.py       # hypothetical Python script used to wrangle the raw data, produce figures, analyses, and supplementary materials
+        └── script.py       # hypothetical Python script used to wrangle the raw data, produce figures, analyses, and supplementary materials
 
         
 
