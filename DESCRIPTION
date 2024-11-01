@@ -19,5 +19,5 @@ Suggests:
     git2r,
     testthat (>= 3.0.0)
 Config/testthat/edition: 3
-URL: https://github.com/ua-data7/DSF-template-compendium
-BugReports: https://github.com/ua-data7/DSF-template-compendium/issues
+URL: https://github.com/Gchism94/bee-color-mark-detection-CV
+BugReports: https://github.com/Gchism94/bee-color-mark-detection-CV/issues
