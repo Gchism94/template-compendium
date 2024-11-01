@@ -15,7 +15,7 @@ This repository is organized as a reproducible research compendium. Future updat
     analysis/
     |
     ├── logs/
-    │   └── log.md          # learning log for DSF
+    │   └── log.md          # log of any progress or relevant information
     |
     ├── figures/            # location of the figures produced for the manuscript
     |
