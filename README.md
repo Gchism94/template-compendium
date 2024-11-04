@@ -1,4 +1,4 @@
-# Bee Marking Detection Computer Vision Project
+# Project compendium template
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
@@ -30,7 +30,7 @@ This repository is organized as a reproducible research compendium. Future updat
                             # supplementary tables for the main manuscript 
     
     R/Python/etc.           # scripts to run in the following order (also see associated README.md)
-        └── script.py       # hypothetical Python script used to wrangle the raw data, produce figures, analyses, and supplementary materials
+        └── script.*        # hypothetical script used to wrangle the raw data, produce figures, analyses, and supplementary materials
 
         
 
