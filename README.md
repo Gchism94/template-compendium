@@ -29,7 +29,7 @@ This repository is organized as a reproducible research compendium. Future updat
         └── supplementaryTables/      
                             # supplementary tables for the main manuscript 
     
-    R/Python/etc.           # scripts to run in the following order (also see associated README.md)
+      src                   # scripts to run in the following order (also see associated README.md)
         └── script.*        # hypothetical script used to wrangle the raw data, produce figures, analyses, and supplementary materials
 
         
